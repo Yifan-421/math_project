@@ -10,5 +10,8 @@
   "description": "",
   "devDependencies": {
     "parcel": "^2.13.3"
+  },
+  "dependencies": {
+    "mathjs": "^14.0.1"
   }
 }
